@@ -7,7 +7,7 @@ The easiest way to deploy this Bot
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/nikhilcroaker/TgVcPlayer)
 
-[![Deploy](https://railway.app/button.svg)](https://railway.app/new/template?template=https%3A%2F%2Fgithub.com%2FNikhilcroaker%2FTgVcPlayer&envs=API_ID%2CAPI_HASH%2CBOT_TOKEN%2CBOT_NAME%2CSESSION_NAME%2CSUDO_USERS%2CDURATION_LIMIT&optionalEnvs=API_IDDesc=Get+API_ID+from+https%3A%2F%2Fmy.telegram.org%2Fapps.&API_HASHDesc=Get+API_HASH+from+https%3A%2F%2Fmy.telegram.org%2Fapps.&BOT_TOKENDesc=Bot+Token+from+%40BotFather&LOG_CHANNELDesc=LOG+Channel+ID+%28Make+sure+bot+and+VC+User+are+added+in+the+group%29&SESSION_NAMEDesc=Pyrogram%2FString+Session+of+the+VC+User)
+[![Deploy](https://railway.app/button.svg)](https://railway.app/new/template?template=https%3A%2F%2Fgithub.com%2Fnikhilcroaker%2FTgVcPlayer&envs=API_ID%2CAPI_HASH%2CBOT_TOKEN%2CBOT_NAME%2CSESSION_NAME%2CSUDO_USERS%2CDURATION_LIMIT&optionalEnvs=API_IDDesc=Get+API_ID+from+https%3A%2F%2Fmy.telegram.org%2Fapps.&API_HASHDesc=Get+API_HASH+from+https%3A%2F%2Fmy.telegram.org%2Fapps.&BOT_TOKENDesc=Bot+Token+from+%40BotFather&LOG_CHANNELDesc=LOG+Channel+ID+%28Make+sure+bot+and+VC+User+are+added+in+the+group%29&SESSION_NAMEDesc=Pyrogram%2FString+Session+of+the+VC+User)
 
 Get pyrogram (p)  `SESSION` from here:
 [![Run on Repl.it](https://repl.it/badge/github/SpEcHiDe/GenerateStringSession)](https://repl.it/@SpEcHiDe/GenerateStringSession)
