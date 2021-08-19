@@ -18,7 +18,7 @@ _Support to get custom thumbnail API for your Bot_
 
 ### Tutorial
  
-- VPS/Local : [Tutorial](https://arnabxd.hashnode.dev/deploy-tgvcbot-in-a-ubuntu-vps)
+- VPS/Local : [Tutorial](https://t.me/its_nitric)
 
 ### Memes
 
