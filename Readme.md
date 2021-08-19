@@ -1,9 +1,26 @@
+# TgVcPlayerBot ❤️
+
 # How To Host
 The easiest way to deploy this Bot
 
-## 🚀 Deployment
+### ❤️ Support This Project
 
-### 💜 Heroku
+<a href="https://www.buymeacoffee.com/mrnitric" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="150"></a>
+
+_Support to get custom thumbnail API for your Bot_
+
+
+### Requirements ([wiki](../../wiki/Requirements))
+
+- FFMPEG
+- NodeJs > V14. (Latest is better)
+- Yarn (Optional)
+
+### Tutorial
+ 
+- VPS/Local : [Tutorial](https://arnabxd.hashnode.dev/deploy-tgvcbot-in-a-ubuntu-vps)
+
+### Memes
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/nikhilcroaker/TgVcPlayer)
 
