@@ -1,6 +1,6 @@
 # TgVcPlayerBot ❤️
 
-# How To Host
+### How To Host
 The easiest way to deploy this Bot
 
 ### ❤️ Support This Project
